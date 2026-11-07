@@ -1,0 +1,10 @@
+<resources>
+    <!-- Window colours before Compose draws; Compose picks light/dark itself -->
+    <style name="Theme.OpenCrown" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/bg</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+    <color name="bg">#EDE4D8</color>
+    <color name="ic_bg">#FF0000</color>
+</resources>

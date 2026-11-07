@@ -1,0 +1,4 @@
+-keepattributes *Annotation*, InnerClasses
+-keep,includedescriptorclasses class io.github.matakobrynky.opencrown.data.**$$serializer { *; }
+-keepclassmembers class io.github.matakobrynky.opencrown.data.** { *** Companion; }
+-keepclasseswithmembers class io.github.matakobrynky.opencrown.data.** { kotlinx.serialization.KSerializer serializer(...); }
