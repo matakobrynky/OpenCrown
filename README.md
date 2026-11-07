@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="docs/icon.png" width="96" alt="OpenCrown icon">
-</p>
-
 <h1 align="center">OpenCrown</h1>
 
 <p align="center">
@@ -54,7 +50,7 @@
 
 ## Install
 
-1. Download the latest `OpenCrown-x.y.z.apk` from [Releases](https://github.com/matakobrynky/OpenCrown/releases).
+1. Download the latest apk from [Releases](https://github.com/matakobrynky/OpenCrown/releases).
 2. Open it on your phone. Android will ask you once to allow installing apps from your browser or file manager.
 3. Allow **Nearby devices** (Bluetooth) when the app asks.
 
